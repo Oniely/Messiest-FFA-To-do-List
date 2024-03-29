@@ -17,7 +17,10 @@ const EditTodoForm = ({ state, stateHandler, id }: Props) => {
 
   async function handleClick(e: FormEvent) {
     e.preventDefault();
-
+    if (!title) {
+      stateHandler(!state);
+      return;
+    }
     try {
       await updateTodo(id, title, pathname);
     } catch (error: any) {
