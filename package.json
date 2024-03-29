@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbo",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "postinstall": "prisma generate",
-    "build": "prisma generate && next build"
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@gsap/react": "^2.1.0",
