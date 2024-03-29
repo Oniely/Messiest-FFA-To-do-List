@@ -20,7 +20,7 @@ export default function RootLayout({
 	return (
 		<html lang="en" suppressHydrationWarning>
 			<body className={`${font.className}`}>
-        <main className="max-w-2xl mx-auto h-screen py-10 px-4 sm:px-0 relative">
+        <main className="max-w-2xl mx-auto h-dvh py-10 px-4 md:px-0 relative">
           <ThemeProvider
           attribute="class"
           defaultTheme="dark"

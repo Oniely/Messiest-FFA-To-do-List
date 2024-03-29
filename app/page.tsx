@@ -4,7 +4,7 @@ import Todos from "@/components/Todos"
 const Home = () => {
 	return (
 		<div>
-			<h1 className="text-4xl font-semibold leading-snug">Task</h1>
+			<h1 className="text-4xl font-semibold leading-snug">Free For All Todo</h1>
 			<AddTodoForm />
 			<Todos />
 		</div>
