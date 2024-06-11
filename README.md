@@ -1,5 +1,3 @@
----
-
 # Free-for-All ToDo
 
 Introducing the ultimate chaos of organization: **Free-for-All ToDo**! This isn't your ordinary to-do list app; it's a wild, collaborative playground where everyone can add, edit, and delete tasks. Embrace the unpredictability and join a community where your to-do items mingle freely with those of others.
@@ -14,5 +12,3 @@ Built with Next.js and featuring a sleek UI courtesy of ShadCN, our app ensures 
 - **Collaborative Chaos**: Enjoy the unpredictable fun of a shared to-do list where anything can happen.
 
 Join the fun and experience organization in its most unconventional form with **Free-for-All ToDo**! Dive into the mess, add some tasks, and see where the community takes it.
-
----
